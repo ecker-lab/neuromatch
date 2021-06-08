@@ -1,5 +1,10 @@
 # Day 7 - Modern Convnets
 
+## WARNING
+
+This repo is work in progress and not finished. Please do not use (just yet).
+
+
 <!-- ## Student notebooks
 
 |   | Run | View |
