@@ -22,7 +22,7 @@ This opens the latest version W2D2_Tutorial1.ipynb (after the first revision by 
 
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//ecker-lab/neuromatch/blob/main/W2D2_Tutorial1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github//ecker-lab/neuromatch/blob/main/W2D2_Tutorial1.ipynb?flush_cache=true) |
+| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//ecker-lab/neuromatch/blob/main/W2D2_Tutorial1_Ch1_8.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github//ecker-lab/neuromatch/blob/main/W2D2_Tutorial1_Ch1_8.ipynb?flush_cache=true) |
 
 ### Chapter 9 and 10
 
